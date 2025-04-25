@@ -188,10 +188,10 @@
         <mxCell id="CYk9ZKovA30b7SM6C5R7-21" value="render_template()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="800" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CYk9ZKovA30b7SM6C5R7-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CYk9ZKovA30b7SM6C5R7-22" value="&lt;span style=&quot;color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 18px; text-align: start; white-space-collapse: preserve; background-color: rgb(247, 247, 247);&quot;&gt;库存页面响应&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CYk9ZKovA30b7SM6C5R7-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="CYk9ZKovA30b7SM6C5R7-22">
+        <mxCell id="CYk9ZKovA30b7SM6C5R7-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="CYk9ZKovA30b7SM6C5R7-6" target="CYk9ZKovA30b7SM6C5R7-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="660" as="sourcePoint" />
             <mxPoint x="380" y="698" as="targetPoint" />
