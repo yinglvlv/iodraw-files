@@ -100,10 +100,10 @@
         <mxCell id="0TdYfKYDggBV3JnZKe63-31" value="&lt;div&gt;查看比赛日历&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="490" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0TdYfKYDggBV3JnZKe63-32" value="----&gt; (查看发车网格)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0TdYfKYDggBV3JnZKe63-32" value="&lt;div&gt;(查看比赛详情)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="585" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0TdYfKYDggBV3JnZKe63-33" value="----&gt; (查看发车网格)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0TdYfKYDggBV3JnZKe63-33" value="&lt;div&gt;(查看历史圈速)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="700" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0TdYfKYDggBV3JnZKe63-34" value="----&gt; (查看发车网格)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
