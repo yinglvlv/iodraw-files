@@ -227,7 +227,10 @@
         <mxCell id="vnYOsl5Tb_LhVsK9NTqm-7" value="&lt;div&gt;constructor_standings.csv&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="480" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vnYOsl5Tb_LhVsK9NTqm-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vnYOsl5Tb_LhVsK9NTqm-8" value="&lt;div&gt;driver_standings.csv&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vnYOsl5Tb_LhVsK9NTqm-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
