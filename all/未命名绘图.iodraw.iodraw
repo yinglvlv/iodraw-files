@@ -126,8 +126,11 @@
         <mxCell id="CYk9ZKovA30b7SM6C5R7-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="CYk9ZKovA30b7SM6C5R7-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="690" as="sourcePoint" />
-            <mxPoint x="440" y="640" as="targetPoint" />
+            <mxPoint x="310" y="600" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CYk9ZKovA30b7SM6C5R7-4" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="630" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
