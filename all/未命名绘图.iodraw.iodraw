@@ -7,8 +7,8 @@
         <mxCell id="0TdYfKYDggBV3JnZKe63-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="490" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0TdYfKYDggBV3JnZKe63-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="190" width="120" height="80" as="geometry" />
+        <mxCell id="0TdYfKYDggBV3JnZKe63-3" value="&lt;div&gt;(选择年份)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0TdYfKYDggBV3JnZKe63-14" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.367;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0TdYfKYDggBV3JnZKe63-1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -109,7 +109,7 @@
         <mxCell id="0TdYfKYDggBV3JnZKe63-34" value="&lt;div&gt;(查看发车网格)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344" y="810" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0TdYfKYDggBV3JnZKe63-35" value="----&gt; (查看发车网格)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0TdYfKYDggBV3JnZKe63-35" value="&lt;div&gt;(进行圈速对比)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="910" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
