@@ -190,7 +190,13 @@
           <mxGeometry x="360" y="910" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CYk9ZKovA30b7SM6C5R7-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="950" width="20" height="20" as="geometry" />
+          <mxGeometry x="360" y="970" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CYk9ZKovA30b7SM6C5R7-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="480" as="sourcePoint" />
+            <mxPoint x="380" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
