@@ -215,6 +215,12 @@
         <mxCell id="vnYOsl5Tb_LhVsK9NTqm-3" value="results.csv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vnYOsl5Tb_LhVsK9NTqm-4" value="&lt;div&gt;lap_times.csv&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vnYOsl5Tb_LhVsK9NTqm-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
