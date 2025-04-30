@@ -295,7 +295,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="84E9jrGVh0Z3tpmHf5re-14" value="车手是否在赛季中更换车队等导致车手有多条车队信息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="350" width="150" height="80" as="geometry" />
+          <mxGeometry x="240" y="350" width="265" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
