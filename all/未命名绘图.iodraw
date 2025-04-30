@@ -286,10 +286,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="84E9jrGVh0Z3tpmHf5re-4" value="计算车手得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84E9jrGVh0Z3tpmHf5re-6" value="返回车手得分表格及国旗图片路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84E9jrGVh0Z3tpmHf5re-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="84E9jrGVh0Z3tpmHf5re-1" target="84E9jrGVh0Z3tpmHf5re-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -299,6 +299,9 @@
         </mxCell>
         <mxCell id="84E9jrGVh0Z3tpmHf5re-14" value="车手是否在赛季中更换车队等导致车手有多条车队信息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="247.5" y="350" width="265" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="84E9jrGVh0Z3tpmHf5re-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
