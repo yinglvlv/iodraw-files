@@ -354,7 +354,7 @@
         <mxCell id="fAvuWjE0tEnnAcYdGSlS-6" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="426" y="358" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fAvuWjE0tEnnAcYdGSlS-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fAvuWjE0tEnnAcYdGSlS-10" value="获取用户选择的车手" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="355" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
