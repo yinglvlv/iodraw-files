@@ -363,6 +363,12 @@
         <mxCell id="fAvuWjE0tEnnAcYdGSlS-12" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="535" y="286" width="30" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="fAvuWjE0tEnnAcYdGSlS-13" value="后端发送车手对比数据到前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="559" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAvuWjE0tEnnAcYdGSlS-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="676" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
