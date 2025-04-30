@@ -337,7 +337,10 @@
           <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fAvuWjE0tEnnAcYdGSlS-3" value="是否有POST请求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="282" width="178" height="80" as="geometry" />
+          <mxGeometry x="325" y="272" width="178" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fAvuWjE0tEnnAcYdGSlS-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="415" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
