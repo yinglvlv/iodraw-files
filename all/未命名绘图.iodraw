@@ -372,6 +372,9 @@
         <mxCell id="fAvuWjE0tEnnAcYdGSlS-14" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356" y="595" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fAvuWjE0tEnnAcYdGSlS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.483;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fAvuWjE0tEnnAcYdGSlS-13" target="fAvuWjE0tEnnAcYdGSlS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
