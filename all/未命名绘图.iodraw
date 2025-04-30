@@ -288,7 +288,7 @@
         <mxCell id="84E9jrGVh0Z3tpmHf5re-4" value="累加计算车手得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="84E9jrGVh0Z3tpmHf5re-6" value="返回车手得分表格及国旗图片路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="84E9jrGVh0Z3tpmHf5re-6" value="返回车手得分趋势字典及国旗图片路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84E9jrGVh0Z3tpmHf5re-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="84E9jrGVh0Z3tpmHf5re-1" target="84E9jrGVh0Z3tpmHf5re-2">
