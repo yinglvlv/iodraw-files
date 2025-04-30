@@ -345,11 +345,6 @@
         <mxCell id="fAvuWjE0tEnnAcYdGSlS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fAvuWjE0tEnnAcYdGSlS-3" target="fAvuWjE0tEnnAcYdGSlS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fAvuWjE0tEnnAcYdGSlS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fAvuWjE0tEnnAcYdGSlS-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="595" y="312" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fAvuWjE0tEnnAcYdGSlS-3" value="是否有POST请求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="272" width="178" height="80" as="geometry" />
         </mxCell>
@@ -358,6 +353,9 @@
         </mxCell>
         <mxCell id="fAvuWjE0tEnnAcYdGSlS-6" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="426" y="358" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fAvuWjE0tEnnAcYdGSlS-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="355" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
