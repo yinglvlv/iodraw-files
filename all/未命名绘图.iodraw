@@ -345,6 +345,9 @@
         <mxCell id="fAvuWjE0tEnnAcYdGSlS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fAvuWjE0tEnnAcYdGSlS-3" target="fAvuWjE0tEnnAcYdGSlS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fAvuWjE0tEnnAcYdGSlS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fAvuWjE0tEnnAcYdGSlS-3" target="fAvuWjE0tEnnAcYdGSlS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fAvuWjE0tEnnAcYdGSlS-3" value="是否有POST请求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="272" width="178" height="80" as="geometry" />
         </mxCell>
@@ -356,6 +359,9 @@
         </mxCell>
         <mxCell id="fAvuWjE0tEnnAcYdGSlS-10" value="获取用户选择的车手" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAvuWjE0tEnnAcYdGSlS-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="286" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
