@@ -395,6 +395,12 @@
         <mxCell id="DM1_MEkKoc_Uiv5O46Ng-4" value="Gunicorn (Flask)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="261" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DM1_MEkKoc_Uiv5O46Ng-5" value="反向代理&amp;amp;&lt;div&gt;SSL终止静态文件处理&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="261" y="318" width="137" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="DM1_MEkKoc_Uiv5O46Ng-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="322" width="40" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
