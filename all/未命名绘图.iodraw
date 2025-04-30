@@ -286,10 +286,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="84E9jrGVh0Z3tpmHf5re-4" value="累加计算车手得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84E9jrGVh0Z3tpmHf5re-6" value="返回车手得分表格及国旗图片路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84E9jrGVh0Z3tpmHf5re-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="84E9jrGVh0Z3tpmHf5re-1" target="84E9jrGVh0Z3tpmHf5re-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -315,6 +315,9 @@
         </mxCell>
         <mxCell id="84E9jrGVh0Z3tpmHf5re-20" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="368" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="84E9jrGVh0Z3tpmHf5re-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="84E9jrGVh0Z3tpmHf5re-22" target="84E9jrGVh0Z3tpmHf5re-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="84E9jrGVh0Z3tpmHf5re-22" value="将车手信息都统一到最开始车队上" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="370" width="120" height="60" as="geometry" />
