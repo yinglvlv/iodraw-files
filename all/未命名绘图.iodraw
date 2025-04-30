@@ -398,8 +398,8 @@
         <mxCell id="DM1_MEkKoc_Uiv5O46Ng-5" value="反向代理&amp;amp;&lt;div&gt;SSL终止静态文件处理&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="261" y="318" width="137" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="DM1_MEkKoc_Uiv5O46Ng-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="488" y="325" width="40" height="26" as="geometry" />
+        <mxCell id="DM1_MEkKoc_Uiv5O46Ng-7" value="WSGI应用服务器Unix Socket通信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="409" y="325" width="198" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
