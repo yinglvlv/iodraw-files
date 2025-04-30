@@ -268,7 +268,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="84E9jrGVh0Z3tpmHf5re-1" value="调用函数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84E9jrGVh0Z3tpmHf5re-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="84E9jrGVh0Z3tpmHf5re-2" target="84E9jrGVh0Z3tpmHf5re-3">
           <mxGeometry relative="1" as="geometry" />
@@ -285,7 +285,7 @@
         <mxCell id="84E9jrGVh0Z3tpmHf5re-4" value="计算车手得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="84E9jrGVh0Z3tpmHf5re-6" value="返回车手得分表格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="84E9jrGVh0Z3tpmHf5re-6" value="返回车手得分表格及国旗图片路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84E9jrGVh0Z3tpmHf5re-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="84E9jrGVh0Z3tpmHf5re-1" target="84E9jrGVh0Z3tpmHf5re-2">
