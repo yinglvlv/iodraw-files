@@ -501,7 +501,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NDSInLnBSFicLPEYJyY7-12" value="&lt;font color=&quot;#ffffff&quot;&gt;isin(raceId)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="155.5" y="277" width="77" height="26" as="geometry" />
+          <mxGeometry x="155.5" y="261" width="77" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NDSInLnBSFicLPEYJyY7-17" value="&lt;font color=&quot;#ffffff&quot;&gt;merge on(driverId)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="272" width="117" height="26" as="geometry" />
