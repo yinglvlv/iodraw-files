@@ -504,8 +504,8 @@
         <mxCell id="NDSInLnBSFicLPEYJyY7-22" value="&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Helvetica&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;background-color: rgb(0, 0, 0); font-size: 14px;&quot;&gt;groupby(raceId,driverId).sum(points)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="351" y="317" width="244" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="NDSInLnBSFicLPEYJyY7-25" value="&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(0, 0, 0); font-size: 13px;&quot;&gt;raceId, driverId, forename, surname, constructorId, code,points&#39;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FFFFFF;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="430" y="380" width="383" height="28" as="geometry" />
+        <mxCell id="NDSInLnBSFicLPEYJyY7-25" value="&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(0, 0, 0); font-size: 14px;&quot;&gt;raceId, driverId, forename, surname, constructorId, code,points&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FFFFFF;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="417" y="380" width="409" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
