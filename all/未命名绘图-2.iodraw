@@ -503,8 +503,8 @@
         <mxCell id="NDSInLnBSFicLPEYJyY7-12" value="&lt;font color=&quot;#ffffff&quot;&gt;isin(raceId)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="183.5" y="281" width="77" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NDSInLnBSFicLPEYJyY7-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="514" y="274" width="40" height="26" as="geometry" />
+        <mxCell id="NDSInLnBSFicLPEYJyY7-17" value="merge" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="508" y="274" width="52" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
