@@ -487,7 +487,7 @@
         </mxCell>
         <mxCell id="NDSInLnBSFicLPEYJyY7-29" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NDSInLnBSFicLPEYJyY7-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="355" y="312" as="sourcePoint" />
+            <mxPoint x="352" y="306" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="225" y="312" />
               <mxPoint x="225" y="394" />
