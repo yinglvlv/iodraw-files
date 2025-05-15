@@ -450,7 +450,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NDSInLnBSFicLPEYJyY7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="NDSInLnBSFicLPEYJyY7-1">
+        <mxCell id="NDSInLnBSFicLPEYJyY7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="NDSInLnBSFicLPEYJyY7-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="287" y="325" as="targetPoint" />
             <Array as="points">
@@ -479,8 +479,15 @@
         <mxCell id="NDSInLnBSFicLPEYJyY7-9" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="317" y="454" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="NDSInLnBSFicLPEYJyY7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="NDSInLnBSFicLPEYJyY7-1" target="NDSInLnBSFicLPEYJyY7-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="287" y="325" as="targetPoint" />
+            <mxPoint x="222" y="247" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NDSInLnBSFicLPEYJyY7-12" value="&lt;font color=&quot;#ffffff&quot;&gt;isin(raceId)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="207" y="293" width="77" height="26" as="geometry" />
+          <mxGeometry x="183.5" y="281" width="77" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
