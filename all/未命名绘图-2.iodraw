@@ -505,7 +505,10 @@
           <mxGeometry x="351" y="317" width="244" height="29" as="geometry" />
         </mxCell>
         <mxCell id="NDSInLnBSFicLPEYJyY7-25" value="&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(0, 0, 0); font-size: 14px;&quot;&gt;raceId, driverId, forename, surname, constructorId, code,points&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FFFFFF;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="417" y="380" width="409" height="29" as="geometry" />
+          <mxGeometry x="412" y="379.5" width="409" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="NDSInLnBSFicLPEYJyY7-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="47" y="364" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
