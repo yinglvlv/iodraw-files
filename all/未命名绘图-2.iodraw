@@ -506,7 +506,7 @@
         <mxCell id="NDSInLnBSFicLPEYJyY7-17" value="&lt;font color=&quot;#ffffff&quot;&gt;merge on(driverId)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="448" y="276" width="117" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NDSInLnBSFicLPEYJyY7-22" value="group" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="NDSInLnBSFicLPEYJyY7-22" value="group" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="376" y="384" width="46" height="25" as="geometry" />
         </mxCell>
       </root>
