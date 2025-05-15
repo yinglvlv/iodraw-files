@@ -427,6 +427,9 @@
         <mxCell id="9pYVzvpltMk-_ZBbsWtR-2" value="索引并合并当年比赛信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311" y="325" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9pYVzvpltMk-_ZBbsWtR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9pYVzvpltMk-_ZBbsWtR-3" target="9pYVzvpltMk-_ZBbsWtR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9pYVzvpltMk-_ZBbsWtR-3" value="创建国旗图片路径映射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311" y="419" width="120" height="60" as="geometry" />
         </mxCell>
@@ -434,7 +437,7 @@
           <mxGeometry x="311" y="513" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9pYVzvpltMk-_ZBbsWtR-5" value="返回车手得分表格及国旗图片路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="311" y="619" width="120" height="60" as="geometry" />
+          <mxGeometry x="311" y="603" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
