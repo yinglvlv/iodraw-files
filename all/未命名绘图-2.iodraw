@@ -519,6 +519,9 @@
         <mxCell id="NDSInLnBSFicLPEYJyY7-27" value="&lt;font style=&quot;background-color: rgb(0, 0, 0); font-size: 13px;&quot; color=&quot;#ffffff&quot;&gt;team_colors&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="47" y="364" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NDSInLnBSFicLPEYJyY7-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="220" y="332" width="38" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
