@@ -415,6 +415,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9pYVzvpltMk-_ZBbsWtR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9pYVzvpltMk-_ZBbsWtR-1" target="9pYVzvpltMk-_ZBbsWtR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9pYVzvpltMk-_ZBbsWtR-1" value="调用函数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311" y="231" width="120" height="60" as="geometry" />
         </mxCell>
@@ -429,12 +432,6 @@
         </mxCell>
         <mxCell id="9pYVzvpltMk-_ZBbsWtR-5" value="返回车手得分表格及国旗图片路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311" y="619" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9pYVzvpltMk-_ZBbsWtR-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="378" y="627" as="sourcePoint" />
-            <mxPoint x="428" y="577" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
