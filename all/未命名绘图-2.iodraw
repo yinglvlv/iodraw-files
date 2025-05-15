@@ -452,10 +452,11 @@
         <mxCell id="1" parent="0" />
         <mxCell id="NDSInLnBSFicLPEYJyY7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="NDSInLnBSFicLPEYJyY7-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="386" y="289" as="targetPoint" />
+            <mxPoint x="287" y="325" as="targetPoint" />
             <Array as="points">
               <mxPoint x="222" y="272" />
-              <mxPoint x="223" y="272" />
+              <mxPoint x="217" y="272" />
+              <mxPoint x="217" y="325" />
             </Array>
           </mxGeometry>
         </mxCell>
