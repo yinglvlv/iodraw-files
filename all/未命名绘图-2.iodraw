@@ -510,7 +510,7 @@
           <mxGeometry x="355" y="336" width="212" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NDSInLnBSFicLPEYJyY7-25" value="&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(0, 0, 0); font-size: 14px;&quot;&gt;&#39;raceId&#39;, &#39;driverId&#39;, &#39;forename&#39;, &#39;surname&#39;, &#39;constructorId&#39;, &#39;code&#39;,&#39;points&#39;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="387" y="448" width="446" height="29" as="geometry" />
+          <mxGeometry x="132.5" y="436" width="446" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
