@@ -468,7 +468,7 @@
           <mxGeometry x="134" y="183" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NDSInLnBSFicLPEYJyY7-2" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; letter-spacing: -0.2pt;&quot;&gt;&lt;font color=&quot;#ffb570&quot;&gt;year&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; letter-spacing: -0.2pt;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;、&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot; lang=&quot;EN-US&quot;&gt;raceId&lt;/span&gt;&lt;font color=&quot;#ffffff&quot;&gt;、&lt;/font&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;font color=&quot;#ffb570&quot;&gt;date&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="66" y="154" width="135" height="29" as="geometry" />
+          <mxGeometry x="119" y="154" width="135" height="29" as="geometry" />
         </mxCell>
         <mxCell id="NDSInLnBSFicLPEYJyY7-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;drivers.csv&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="575" y="184" width="120" height="59" as="geometry" />
