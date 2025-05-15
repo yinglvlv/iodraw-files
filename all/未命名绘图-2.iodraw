@@ -477,9 +477,9 @@
           <mxGeometry x="484" y="151" width="251" height="29" as="geometry" />
         </mxCell>
         <mxCell id="NDSInLnBSFicLPEYJyY7-9" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="403" y="323" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="386" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NDSInLnBSFicLPEYJyY7-12" value="raceId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NDSInLnBSFicLPEYJyY7-12" value="&lt;font color=&quot;#ffffff&quot;&gt;raceId&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="293" width="51" height="26" as="geometry" />
         </mxCell>
       </root>
