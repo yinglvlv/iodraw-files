@@ -421,7 +421,7 @@
         <mxCell id="9pYVzvpltMk-_ZBbsWtR-2" value="索引并合并当年比赛信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311" y="346" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9pYVzvpltMk-_ZBbsWtR-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9pYVzvpltMk-_ZBbsWtR-3" value="创建国旗图片路径映射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311" y="461" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9pYVzvpltMk-_ZBbsWtR-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
