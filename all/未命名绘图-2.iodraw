@@ -517,6 +517,16 @@
         <mxCell id="NDSInLnBSFicLPEYJyY7-25" value="&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(0, 0, 0); font-size: 14px;&quot;&gt;raceId, driverId, forename, surname, constructorId, code,points&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FFFFFF;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="414" y="379.5" width="409" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="NDSInLnBSFicLPEYJyY7-33" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="NDSInLnBSFicLPEYJyY7-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="353.2941176470588" y="477.7058823529412" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="263" y="478" />
+              <mxPoint x="263" y="460" />
+              <mxPoint x="353" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NDSInLnBSFicLPEYJyY7-27" value="&lt;font style=&quot;background-color: rgb(0, 0, 0); font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;team_colors&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="52" y="448" width="120" height="60" as="geometry" />
         </mxCell>
