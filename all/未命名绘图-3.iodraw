@@ -325,7 +325,7 @@
         <mxCell id="84E9jrGVh0Z3tpmHf5re-22" value="将车手信息都统一到最开始车队上" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bqK8GkSMLXBNzvSNm6Xf-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bqK8GkSMLXBNzvSNm6Xf-1" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
